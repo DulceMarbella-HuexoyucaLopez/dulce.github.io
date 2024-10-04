@@ -1,0 +1,80 @@
+body {
+    background-color: #B9F2FF;
+    color: #201106;
+    font-family:'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: #9b111e;
+    color:aqua;
+    text-align: center;
+
+}
+header img{
+    width: 300px;
+    height: 300px;
+
+}
+header h1{
+    font-size: 50px;
+    padding-top: 20px;
+}
+header h2{
+    font-size: 35px;
+    padding-bottom: 15px;
+}
+main {
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #6576b4; /* Aquí puedes cambiar el color de fondo a otro si lo deseas */
+}
+/* Centrar texto en párrafos y títulos */
+p, h3 {
+    text-align: center;
+}
+
+/* Espaciado superior y tamaño de fuente para h3 */
+h3 {
+    padding-top: 30px;
+    font-size: 30px;
+}
+ul {
+    list-style-type: none; /* Quitar los puntos de la lista */
+    padding: 0; /* Eliminar cualquier margen o padding predeterminado */
+    margin: 0;
+    display: flex; /* Organizar los elementos en línea (horizontalmente) */
+}
+
+li {
+    margin: 0 15px; /* Aplicar un margen de 15px a cada lado de los elementos */
+}
+#redessociales a {
+    color:bisque; /* Color por defecto */
+    text-decoration: none; /* Opcional, elimina el subrayado */
+}
+
+#redessociales a:hover {
+    color:aquamarine; /* Color al pasar el cursor */
+}
+#multimedia {
+    text-align: center;
+}
+footer p, footer a {
+    color:darkmagenta;
+}
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    text-align: center;
+}
+
+.instagram-section {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+
